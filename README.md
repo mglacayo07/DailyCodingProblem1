@@ -15,5 +15,5 @@ Bonus: Can you do this in one pass?
 
 # Preview
 
-![](reesult.png)
+![](https://github.com/mglacayo07/DailyCodingProblem1/blob/main/result.png)
 
